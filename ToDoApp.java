@@ -21,8 +21,6 @@ public class ToDoApp {
 
 
 
-
-
         do {
             System.out.println("\n--- GERENCIADOR DE TAREFAS ---");
             System.out.println("1. Adicionar tarefa");
