@@ -8,6 +8,9 @@ public class ToDoApp {
         Scanner sc = new Scanner(System.in);
         int opcao;
         do {
+
+
+            
             System.out.println("\n--- GERENCIADOR DE TAREFAS ---");
             System.out.println("1. Adicionar tarefa");
             System.out.println("2. Listar tarefas");
